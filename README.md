@@ -1,4 +1,4 @@
-# PuzzleFree-Button-Firefox
+# Jigsaw Puzzle Button (PuzzleFree.Game)-Firefox
 
 A lightweight browser extension that adds quick access to https://puzzlefree.game.
 
